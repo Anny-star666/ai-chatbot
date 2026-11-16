@@ -8,7 +8,7 @@
 - 密钥错误、额度不足、网络超时均有中文提示
 
 ## 截图
-<img width="800" height="1484" alt="image" src="https://github.com/user-attachments/assets/20ca0581-3061-4a63-b9cc-735473d43b5f" />
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/20ca0581-3061-4a63-b9cc-735473d43b5f" />
 
 ## 如何运行
 1. 克隆仓库
